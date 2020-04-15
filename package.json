@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TestOrg88/testnpm.git"
+    "url": "git+https://github.com/testorg88/testnpm.git"
   },
   "author": "\"andreifurnea <andrei.furnea@lola.tech>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TestOrg88/testnpm/issues"
+    "url": "https://github.com/testorg88/testnpm/issues"
   },
-  "homepage": "https://github.com/TestOrg88/testnpm#readme"
+  "homepage": "https://github.com/testorg88/testnpm#readme"
 }

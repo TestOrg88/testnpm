@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/testorg88/testnpm/issues"
   },
-  "homepage": "https://github.com/testorg88/testnpm#readme"
+  "homepage": "https://github.com/testorg88/testnpm#readme",
+  "devDependencies": {
+    "docusaurus": "2.0.0-alpha.50"
+  }
 }

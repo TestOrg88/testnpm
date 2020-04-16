@@ -1,0 +1,54 @@
+Arguments: 
+  /Users/AndreiFurnea/.nvm/versions/node/v10.16.0/bin/node /Users/AndreiFurnea/.nvm/versions/node/v10.16.0/bin/yarn add --dev @docusaurus
+
+PATH: 
+  /Users/AndreiFurnea/.nvm/versions/node/v10.16.0/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  10.16.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/@docusaurus: Request "https://registry.yarnpkg.com/@docusaurus" returned a 405
+      at Request.params.callback [as _callback] (/Users/AndreiFurnea/.nvm/versions/node/v10.16.0/lib/node_modules/yarn/lib/cli.js:66996:18)
+      at Request.self.callback (/Users/AndreiFurnea/.nvm/versions/node/v10.16.0/lib/node_modules/yarn/lib/cli.js:140748:22)
+      at Request.emit (events.js:198:13)
+      at Request.<anonymous> (/Users/AndreiFurnea/.nvm/versions/node/v10.16.0/lib/node_modules/yarn/lib/cli.js:141720:10)
+      at Request.emit (events.js:198:13)
+      at IncomingMessage.<anonymous> (/Users/AndreiFurnea/.nvm/versions/node/v10.16.0/lib/node_modules/yarn/lib/cli.js:141642:12)
+      at Object.onceWrapper (events.js:286:20)
+      at IncomingMessage.emit (events.js:203:15)
+      at endReadableNT (_stream_readable.js:1129:12)
+      at process._tickCallback (internal/process/next_tick.js:63:19)
+
+npm manifest: 
+  {
+    "name": "@testorg88/testnpm",
+    "version": "1.0.0",
+    "description": "test",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/testorg88/testnpm.git"
+    },
+    "author": "\"andreifurnea <andrei.furnea@lola.tech>",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/testorg88/testnpm/issues"
+    },
+    "homepage": "https://github.com/testorg88/testnpm#readme"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

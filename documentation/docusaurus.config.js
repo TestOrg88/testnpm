@@ -2,7 +2,7 @@ module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
   url: 'https://testorg88.github.io',
-  baseUrl: '/documentation/',
+  baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'TestOrg88', // Usually your GitHub org/user name.
   projectName: 'testnpm', // Usually your repo name.
